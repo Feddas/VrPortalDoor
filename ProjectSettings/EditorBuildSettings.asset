@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Portals/Test1.2Rooms.unity
+    guid: 3e2d5c58727a1074f9bd05a2e8ac98af
